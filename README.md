@@ -1,48 +1,41 @@
 # 19. De la V1 a V2: Evolución y Versionado de una Base de Datos
 
 ## 📋 Información Académica
-* **Institución:** Universidad Veracruzana — Facultad de Negocios y Tecnologías (Ixtaczoquitlán, Veracruz)
-* **Programa Educativo:** Ingeniería de Software
-* **Experiencia Educativa:** Diseño de Software
-* **Docente:** Martin Mancilla Gómez
-* **Estudiante:** Renata Mota Gonzalez
-* **Fecha de elaboración:** 11 de noviembre de 2026
+- **Institución:** Universidad Veracruzana — Facultad de Negocios y Tecnologías (Ixtaczoquitlán, Veracruz)
+- **Programa Educativo:** Ingeniería de Software
+- **Experiencia Educativa:** Diseño de Software
+- **Docente:** Martin Mancilla Gómez
+- **Estudiante:** Renata Mota Gonzalez
+- **Fecha de elaboración:** 11 de noviembre de 2026
 
 ---
 
 ## Parte 1: Análisis Manual
 
-# 
 <p align="center">
-  <img src="https://imgur.com/a/bneMvL7#un3suXJ" alt="Análisis manual" width="750">
+  <img src="https://i.imgur.com/TU_ENLACE_DIRECTO_1.png" alt="Análisis manual" width="750">
 </p>
 
 #### Evidencia V1
 
-# 
 <p align="center">
-  <img src="[img]https://i.imgur.com/HW5EJ8s.png[/img]" alt="Evidencia V1" width="750">
+  <img src="https://i.imgur.com/HW5EJ8s.png" alt="Evidencia V1" width="750">
 </p>
-gay
 
-kpjhio
 ## Implementación SQL y Pruebas (Pruebas 1, 2 y 4)
 
-# 
 <p align="center">
-  <img src="https://imgur.com/SedKb3L" alt="Pruebas de migración SQL" width="750">
+  <img src="https://i.imgur.com/SedKb3L.png" alt="Pruebas de migración SQL" width="750">
 </p>
 
 ## Prueba 3
 
-# 
 <p align="center">
-  <img src="https://imgur.com/cagPnxH" alt="Prueba 3" width="750">
+  <img src="https://i.imgur.com/cagPnxH.png" alt="Prueba 3" width="750">
 </p>
 
 ## Parte 5: Documentación del Cambio
 
-# 
 <p align="center">
-  <img src="https://imgur.com/a/bneMvL7#fXaHcnZ" alt="Parte 5" width="750">
+  <img src="https://i.imgur.com/TU_ENLACE_DIRECTO_5.png" alt="Parte 5" width="750">
 </p>
