@@ -13,7 +13,7 @@
 ## Parte 1: Análisis Manual
 
 <p align="center">
-  <img src="https://i.imgur.com/TU_ENLACE_DIRECTO_1.png" alt="Análisis manual" width="750">
+  <img src="https://i.imgur.com/un3suXJ.png" alt="Análisis manual" width="750">
 </p>
 
 #### Evidencia V1
@@ -37,5 +37,5 @@
 ## Parte 5: Documentación del Cambio
 
 <p align="center">
-  <img src="https://i.imgur.com/TU_ENLACE_DIRECTO_5.png" alt="Parte 5" width="750">
+  <img src="https://i.imgur.com/fXaHcnZ.png" alt="Parte 5" width="750">
 </p>
